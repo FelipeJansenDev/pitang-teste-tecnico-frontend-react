@@ -67,7 +67,7 @@ class Signin extends Component {
                     </div>
                     <input
                         type="submit"
-                        value="SIGN IN"
+                        value="Entrar"
                         className="btn"
 
                     />
